@@ -12,7 +12,7 @@
 
 
 ## General Information
-> The Dream Bear is a interactive children's plush toy that plays lullabies through buttons located in both its paws. One button plays the song twinkle Twinkle Little Star whilst the other plays Baa Baa Black Sheep. The Bear also makes a giggle noise when shaken and displays a LED heart inside the bear. The purpose of this toy is for hyperactive children who need a distraction or help sleeping during the night. This toy would bring comfort to children and provide then with screen-free entertainment to calm and settle them before sleep.
+> The Dream Bear is a interactive children's plush toy that plays lullabies through buttons located in both its paws. One button plays the song twinkle Twinkle Little Star whilst the other plays Baa Baa Black Sheep. The Bear also makes a giggle noise when shaken and displays a LED heart inside the bear. The purpose of this toy is for hyperactive children who need a distraction or help sleeping during the night. This toy would bring comfort to children and provide then with screen-free entertainment to calm and settle them before sleep. This project uses Python code on the Micro:Bit V2 application.
 
 
 ## Technologies Used
