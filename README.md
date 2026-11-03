@@ -1,6 +1,6 @@
-# Project Name
+# Dream Bear
 > Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> The Dream Bear is a interactive children's plush toy that plays lullabies through buttons located in both its paws. One button plays the song twinkle Twinkle Little Star whilst the other plays Baa Baa Black Sheep. The Bear also makes a giggle noise when shaken and displays a LED heart inside the bear. The purpose of this toy is for hyperactive children who need a distraction or help sleeping during the night.
 
 ## Table of Contents
 * [General Info](#general-information)
